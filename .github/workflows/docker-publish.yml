@@ -25,7 +25,7 @@ env:
 jobs:
 
   integration:
-    uses: ChandaB/03_05_challenge_python_workflow/.github/workflows/python-ci-workflow.yml@main
+    uses: ChandaB/03_05_challenge_python_workflow/.github/workflows/python-app.yml@main
     permissions:
       contents: read
         
